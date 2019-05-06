@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compteur-enregistreur</string>
+    <string name="button_text">Cliquez!</string>
+    <string name="buttonReset_text">Réinitialiser</string>
+</resources>
